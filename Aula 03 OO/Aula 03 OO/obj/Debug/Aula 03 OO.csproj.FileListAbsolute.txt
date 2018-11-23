@@ -1,0 +1,7 @@
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\obj\Debug\Aula 03 OO.csprojAssemblyReference.cache
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\obj\Debug\Aula 03 OO.csproj.CoreCompileInputs.cache
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\bin\Debug\Aula 03 OO.exe.config
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\bin\Debug\Aula 03 OO.exe
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\bin\Debug\Aula 03 OO.pdb
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\obj\Debug\Aula 03 OO.exe
+C:\Users\yurie\source\repos\Aula 03 OO\Aula 03 OO\obj\Debug\Aula 03 OO.pdb
